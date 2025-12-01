@@ -6,7 +6,7 @@ This project includes features like score tracking, high score saving (using `lo
 ---
 
 🚀 Live Demo  
-👉 **[Click here to play the game](https://rawcdn.githack.com/prashant2002-commit/Snake-Game/5bc40dc5539126fdc8f45f21a2cf0e672a7e55b7/index.html)**
+👉 **[Click here to play the game](https://rawcdn.githack.com/prashant2002-commit/Snake-Game/7fa6d419f488b2dd78766e1a4b553e8fcbf4cdb6/index.html)**
 
 
 ### 🎮 Game Mechanics
